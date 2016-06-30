@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>testgame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>hookScripts/serverHooks</name>
+			<type>2</type>
+			<location>/Users/romaferre/Documents/runtime-mars1/testgame/serverHooks</location>
+		</link>
+	</linkedResources>
+</projectDescription>

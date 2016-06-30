@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="debugger.launchGamedoniaScriptConfigurationType">
+<stringAttribute key="LAUNCH_JSON" value="{}"/>
+<stringAttribute key="LAUNCH_SCRIPT_NAME" value="mycustom"/>
+<stringAttribute key="LAUNCH_SCRIPT_PROJECT" value="testgame"/>
+<mapAttribute key="org.eclipse.debug.core.preferred_launchers">
+<mapEntry key="[debug,run]" value="debugger.launchGamedoniaScriptConfigurationType"/>
+</mapAttribute>
+</launchConfiguration>
